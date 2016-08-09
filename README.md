@@ -44,6 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  - [Contiki](http://www.contiki-os.org/) - Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet.
  - [FreeRTOS](http://www.freertos.org/) - FreeRTOS is a popular real-time operating system kernel for embedded devices, that has been ported to 35 microcontrollers.
  - [Google Brillo](https://developers.google.com/brillo/) - Brillo extends the Android platform to all your connected devices, so they are easy to set up and work seamlessly with each other and your smartphone.
+ - [Hypriot](http://blog.hypriot.com/downloads/) - ARM OS to run Docker directly on Raspberry
  - [OpenWrt](https://openwrt.org/) - OpenWrt is an operating system (in particular, an embedded operating system) based on the Linux kernel, primarily used on embedded devices to route network traffic. The main components are the Linux kernel, util-linux, uClibc or musl, and BusyBox. All components have been optimized for size, to be small enough for fitting into the limited storage and memory available in home routers.
  - [Snappy Ubuntu](https://developer.ubuntu.com/en/snappy/) - Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates.  It provides a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
  - [NodeOS](http://node-os.com/) - NodeOS is an operating system build entirely in Javascript and managed by npm built on the Linux kernel.
@@ -74,7 +75,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Middlewares
 
+ - [Amazon AWS IoT](https://aws.amazon.com/iot/) - Amazon AWS Cloud platform IoT
+ - [Google Cloud IoT](https://cloud.google.com/solutions/iot/)- Google Cloud IoT
  - [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
+ - [Microsoft Azure IoT](https://azure.microsoft.com/en-us/suites/iot-suite/) - Microsoft Cloud IoT Suite
+ - [Resin](https://resin.io/) - Develop, Manage, Deploy and Scale Linux IoT containers
 
 #### Libraries and Tools
 
